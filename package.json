@@ -1,0 +1,13 @@
+{
+  "name": "dashboard-estoque",
+  "version": "1.0.0",
+  "description": "Dashboard de Controle de Estoque - HTML, CSS e JavaScript puro",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.6"
+  }
+}
